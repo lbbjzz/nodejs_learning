@@ -1,12 +1,12 @@
 {
   "name": "nodejs_learning",
   "version": "1.0.0",
-  "description": "",
+  "description": "Nodejs学习",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "lbbjzz",
   "license": "ISC"
 }
